@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/internal/handlers/DELETE/Book.go" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/internal/handlers/DELETE/DAuthor.go" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/internal/handlers/GET/1.go" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/internal/handlers/GET/AuthorsGet.go" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/internal/handlers/GET/Books.go" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/internal/handlers/GET/BorrowedBooks.go" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/internal/handlers/GET/Members.go" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/internal/handlers/PATCH/Author.go" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/internal/handlers/POST/Authors.go" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/internal/handlers/POST/Book.go" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/internal/handlers/POST/BorrowBook.go" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/internal/handlers/POST/PostMembers.go" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/internal/pkg/schema/000001_init.down.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/internal/pkg/schema/000001_init.up.sql" dialect="PostgreSQL" />
+  </component>
+</project>
